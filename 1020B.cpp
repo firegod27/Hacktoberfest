@@ -8,7 +8,7 @@ int main()
     for(int i=1;i<=t;i++)
     {
         cin>>bhams[i];
-    }
+    }cscsc
     bool vis[t+1];
     for(int i=1;i<t+1;i++)
     {
