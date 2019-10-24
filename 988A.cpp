@@ -11,7 +11,7 @@ int main()
     {
         cin>>k;
         bhams.insert(k);
-        bh.push_back(k);
+        bh.dd(k);
     }
     if(bhams.size()<t) cout<<"NO"<<endl;
     else
