@@ -8,6 +8,12 @@ int main()
         cin>>n;
         vector<long long int>b1(n);
         vector<long long int>b2(n);
+        vector<long long int>bhams(n*2);
+        for(int i=0;i<n;i++)
+        
+       {
+       bhams[i] = b1[i];
+        }
         for(int i=0;i<n;i++)
         {
             cin>>b1[i];
