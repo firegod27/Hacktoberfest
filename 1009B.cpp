@@ -18,6 +18,16 @@ int main()
             countm++;
         }
     }
+    for(int i=0;i<n;i++)
+        
+       {
+       bhams[i] = b1[i];
+        }
+        for(int i=0;i<n;i++)
+        {
+            cin>>b1[i];
+            cin>>b2[i];
+        }
     while(countm!=0)
     {
         countm=0;
